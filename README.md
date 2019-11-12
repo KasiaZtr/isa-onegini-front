@@ -44,6 +44,8 @@ Jak utrzymać strukturę arkuszów stylów i unikać pułapek związanych z prec
 
 Nowe znaczniki i ich praktyczne zastosowanie
 
+- [HTML5 Boilerplate](https://html5boilerplate.com/)
+
 ### External resources
 
 - [Web Fundamentals](https://developers.google.com/web/fundamentals/)
