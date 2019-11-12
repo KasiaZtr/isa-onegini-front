@@ -46,6 +46,7 @@ Nowe znaczniki i ich praktyczne zastosowanie
 
 - [HTML5 Boilerplate](https://html5boilerplate.com/)
 - [Semantic HTML Elements](https://developer.mozilla.org/en-US/docs/Web/HTML/Element)
+- [HTML5 semantic tags](https://www.bitdegree.org/learn/html5-semantic-tags)
 
 ### External resources
 
