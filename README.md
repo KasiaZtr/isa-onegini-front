@@ -20,6 +20,7 @@ Nowoczesne metody tworzenia układu elementów w dokumentach HTML
 - [Flexbox](https://flexboxfroggy.com/)
 - [Grid](https://cssgridgarden.com/)
 - [CSS Variables](https://blog.logrocket.com/how-to-create-better-themes-with-css-variables-5a3744105c74/)
+- [Learn CSS Layout](https://learnlayout.com/)
 
 ## Responsive UI code maintenance
 
