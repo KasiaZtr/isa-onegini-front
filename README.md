@@ -45,6 +45,7 @@ Jak utrzymać strukturę arkuszów stylów i unikać pułapek związanych z prec
 Nowe znaczniki i ich praktyczne zastosowanie
 
 - [HTML5 Boilerplate](https://html5boilerplate.com/)
+- [Semantic HTML Elements](https://developer.mozilla.org/en-US/docs/Web/HTML/Element)
 
 ### External resources
 
