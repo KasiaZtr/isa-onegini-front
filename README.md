@@ -1,5 +1,7 @@
 # Modern front-end
 
+trener: Bartosz Cytrowski <bartosz.cytrowski@gmail.com>
+
 Szkolenie będzie opierało się w dużej mierze na kodowaniu na żywo i demonstracji kluczowych w pracy front-end developera narzędzi pozwalających na debugowanie i profilowanie aplikacji przeglądarkowej. Materiał zostanie rozłożony na 2 dni - pierwszy poświęcimy HTML i CSS, a drugi odpowiedzi na pytania, które potencjalnie pojawią się pod koniec dnia pierwszego oraz zagadnieniom związanym z językiem JS.
 
 ## Browser rendering engine
