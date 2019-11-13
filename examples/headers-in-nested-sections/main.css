@@ -1,0 +1,10 @@
+:root {
+  font-family: sans-serif;
+}
+
+.sample {
+  padding: 50px;
+  margin-top: 10px;
+  box-sizing: border-box;
+  border: 1px solid black;
+}
